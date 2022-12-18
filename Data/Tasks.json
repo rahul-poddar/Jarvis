@@ -1,0 +1,19 @@
+{
+    "intents":[
+        {
+            "tag":"open",
+            "patterns":["open","launch","start","visit","search"
+            ],
+            "responses":["open"
+            ]
+        },
+
+        {
+            "tag":"whatsapp",
+            "patterns":["whatsapp","message send","chat","message send to"
+            ],
+            "responses":["whatsapp"
+            ]
+        }
+    ]
+}   

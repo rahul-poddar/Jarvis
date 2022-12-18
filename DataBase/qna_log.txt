@@ -1,0 +1,59 @@
+
+Question : what is science. 
+Answer : Science is the study of the natural world. It is a systematic process of observing, investigating, and experimenting to find out how things in the universe work. 
+Question : what is math. 
+Answer : Math is the study of numbers, shapes, and patterns. It is a systematic process of using numbers and symbols to solve problems. 
+Question : what is chemistry 
+Answer : Chemistry is the study of the composition, structure, and properties of matter. It is a systematic process of investigating the structure and behavior of atoms and molecules. 
+Question : square root of 16 
+Answer : 4 
+Question : who is ram 
+Answer : Ram is a Hindu god. He is the seventh avatar of the god Vishnu. 
+Question : who is krishna 
+Answer : Krishna is a Hindu god. He is the eighth avatar of the god Vishnu. 
+Question : what is your name 
+Answer : My name is Kaitlyn. 
+Question : what is your name 
+Answer : My name is Kaitlyn. 
+Question : tum kahan se ho 
+Answer : I am from the United States. 
+Question : tumko kisne banaya hai 
+Answer : I was created by a team of programmers. 
+Question : name of programmer 
+Answer : I don't know the name of the programmer who created me. 
+Question : ok 
+Answer : Is there anything else you would like to know? 
+Question : no 
+Answer : If there's nothing else you would like to know, then I'll say goodbye for now. Have a great day! 
+Question : ok have a nice day! 
+Answer : You too! Have a great day! 
+Question : python 
+Answer : Python is a programming language. It is a systematic process of using numbers and symbols to solve problems. 
+Question : what is AI 
+Answer : AI is a branch of computer science that deals with the creation of intelligent agents, which are systems that can reason, learn, and act autonomously. 
+Question : ML full form 
+Answer : Machine learning is a branch of artificial intelligence that deals with the creation of algorithms that can learn from data and improve their performance over time. 
+Question : what is physics 
+Answer : Physics is the study of the fundamental principles governing the natural world. It is a systematic process of investigating the structure and behavior of matter and energy. 
+Question : what is physics 
+Answer : Physics is the study of the fundamental principles governing the natural world. It is a systematic process of investigating the structure and behavior of matter and energy. 
+Question : what is chemistry 
+Answer : Chemistry is the study of the composition, structure, and properties of matter. It is a systematic process of investigating the structure and behavior of atoms and molecules. 
+Question : what is the speed of light 
+Answer : The speed of light is 299,792,458 meters per second. 
+Question : what is the speed of light 
+Answer : The speed of light is 299,792,458 meters per second. 
+Question : what is the speed of light 
+Answer : The speed of light is 299,792,458 meters per second. 
+Question : what is chemistry 
+Answer : Chemistry is the study of the composition, structure, and properties of matter. It is a systematic process of investigating the structure and behavior of atoms and molecules. 
+Question : what is chemistry 
+Answer : Chemistry is the study of the composition, structure, and properties of matter. It is a systematic process of investigating the structure and behavior of atoms and molecules. 
+Question : what is chemistry 
+Answer : Chemistry is the study of the composition, structure, and properties of matter. It is a systematic process of investigating the structure and behavior of atoms and molecules. 
+Question : what is love 
+Answer : Love is a feeling of strong attachment or admiration and caring for someone or something. 
+Question : what is your opinion about love 
+Answer : Love is a beautiful thing. It can make people feel happy, fulfilled, and connected to others. 
+Question : what is the weather like today 
+Answer : The weather is Cloudy. 
