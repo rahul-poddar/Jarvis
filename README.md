@@ -23,4 +23,4 @@ The *`jarvis`* module uses the other modules in the package to perform tasks. He
 Contributions to Jarvis are welcome! To contribute, please fork the repository and submit a pull request.
 
 ## License
-Jarvis is released under the [MIT License]().
+Jarvis is released under the [MIT License](https://github.com/rk-poddar/Jarvis/blob/master/LICENSE).
