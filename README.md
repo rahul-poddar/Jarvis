@@ -6,7 +6,9 @@ The Jarvis package consists of several modules: body, data, brain, database, and
 
 ## Installation
 Jarvis can be installed by cloning the GitHub repository and installing the required dependencies using pip. To do this, follow these steps:
-> `git clone https://github.com/yourusername/jarvis.git`
+```bash
+> $ git clone https://github.com/yourusername/jarvis.git
+```
 
 ## Usage
 To use Jarvis, run the **`Jarvis.py`** script. This script imports the *`jarvis`* module, which contains the main functionality of the program.
